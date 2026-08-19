@@ -1,1 +1,1 @@
-# Facial_Recognition_Management_System
+# Facial Recognition Management System
