@@ -1,9 +1,8 @@
 /*!
  * animsition v4.0.2
  * A simple and easy jQuery plugin for CSS animated page transitions.
- * http://blivesta.github.io/animsition
  * License : MIT
- * Author : blivesta (http://blivesta.com/)
+ * Author : Yash Mishra
  */
 ;(function (factory) {
   'use strict';
